@@ -8,5 +8,5 @@ product reviews is time-consuming and inefficient. Therefore, there is a need fo
 sentiment analysis solution to process and interpret these reviews efficiently.
 
 ### Proposed Solution
-Automated Sentiment Analyzer: In this project, an end-to-end customers' sentiment analyzer that is able to take each customer review and classify it as either positive or negative was developed amddeployed. This sentiment analyzer is capable of analyzing a million reviews in less than 5 seconds. 
+Automated Sentiment Analyzer: In this project, an end-to-end customers' sentiment analyzer that is able to take each customer review and classify it as either positive or negative was developed and deployed. This sentiment analyzer is capable of analyzing a million reviews in less than 5 seconds. 
 The poject covers the overview, data architecture, ETL process, EDA, model development, product performance, business impact, conclusion, and recommendation. The project showcases a significant improvement in sentiment analysis accuracy for AliExpress.
